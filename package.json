@@ -1,0 +1,20 @@
+{
+  "name": "ws-mock",
+  "version": "1.0.0",
+  "description": "ws-mock for PHOENIX",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MalindaK",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/ws": "^5.1.2",
+    "typescript": "^3.0.1"
+  }
+}
